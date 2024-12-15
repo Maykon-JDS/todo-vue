@@ -5,8 +5,8 @@ import RouterLinkButton  from './button/RouterLinkButton.vue'
 <template>
   <div class="menu">
     <nav>
-      <RouterLinkButton to="/">Home</RouterLinkButton>
-      <RouterLinkButton to="/about">About</RouterLinkButton>
+      <RouterLinkButton to="/">To-Do</RouterLinkButton>
+      <RouterLinkButton to="/sobre">Sobre</RouterLinkButton>
     </nav>
   </div>
 </template>
